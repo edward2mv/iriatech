@@ -1,0 +1,38 @@
+[Tue Aug 30 10:03:44.054988 2022] [mpm_winnt:notice] [pid 33332:tid 856] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Aug 30 10:03:44.055988 2022] [mpm_winnt:notice] [pid 33332:tid 856] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Aug 30 10:03:44.055988 2022] [core:notice] [pid 33332:tid 856] AH00094: Command line: 'C:\\Users\\edwar\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+7\\bin\\win32\\bin\\httpd.exe -d C:/Users/edwar/AppData/Roaming/Local/lightning-services/apache-2.4.43+7/bin/win32 -D FOREGROUND -f C:\\Users\\edwar\\AppData\\Roaming\\Local\\run\\MkAjNQlG0\\conf\\apache\\apache2.conf'
+[Tue Aug 30 10:03:44.058993 2022] [mpm_winnt:notice] [pid 33332:tid 856] AH00418: Parent: Created child process 8484
+[Tue Aug 30 10:03:44.832293 2022] [mpm_winnt:notice] [pid 8484:tid 864] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 30 10:41:59.181235 2022] [core:warn] [pid 15256:tid 820] AH00098: pid file C:/Users/edwar/AppData/Roaming/Local/run/MkAjNQlG0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 30 10:41:59.184240 2022] [mpm_winnt:notice] [pid 15256:tid 820] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Aug 30 10:41:59.184240 2022] [mpm_winnt:notice] [pid 15256:tid 820] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Aug 30 10:41:59.184240 2022] [core:notice] [pid 15256:tid 820] AH00094: Command line: 'C:\\Users\\edwar\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+7\\bin\\win32\\bin\\httpd.exe -d C:/Users/edwar/AppData/Roaming/Local/lightning-services/apache-2.4.43+7/bin/win32 -D FOREGROUND -f C:\\Users\\edwar\\AppData\\Roaming\\Local\\run\\MkAjNQlG0\\conf\\apache\\apache2.conf'
+[Tue Aug 30 10:41:59.187235 2022] [mpm_winnt:notice] [pid 15256:tid 820] AH00418: Parent: Created child process 30204
+[Tue Aug 30 10:41:59.841236 2022] [mpm_winnt:notice] [pid 30204:tid 868] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 30 10:49:38.240380 2022] [core:warn] [pid 32704:tid 604] AH00098: pid file C:/Users/edwar/AppData/Roaming/Local/run/MkAjNQlG0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 30 10:49:38.244382 2022] [mpm_winnt:notice] [pid 32704:tid 604] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Aug 30 10:49:38.244382 2022] [mpm_winnt:notice] [pid 32704:tid 604] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Aug 30 10:49:38.244382 2022] [core:notice] [pid 32704:tid 604] AH00094: Command line: 'C:\\Users\\edwar\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+7\\bin\\win32\\bin\\httpd.exe -d C:/Users/edwar/AppData/Roaming/Local/lightning-services/apache-2.4.43+7/bin/win32 -D FOREGROUND -f C:\\Users\\edwar\\AppData\\Roaming\\Local\\run\\MkAjNQlG0\\conf\\apache\\apache2.conf'
+[Tue Aug 30 10:49:38.247381 2022] [mpm_winnt:notice] [pid 32704:tid 604] AH00418: Parent: Created child process 30508
+[Tue Aug 30 10:49:38.937378 2022] [mpm_winnt:notice] [pid 30508:tid 884] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 30 10:49:49.616709 2022] [core:warn] [pid 27280:tid 772] AH00098: pid file C:/Users/edwar/AppData/Roaming/Local/run/MkAjNQlG0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 30 10:49:49.619709 2022] [mpm_winnt:notice] [pid 27280:tid 772] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Aug 30 10:49:49.619709 2022] [mpm_winnt:notice] [pid 27280:tid 772] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Aug 30 10:49:49.619709 2022] [core:notice] [pid 27280:tid 772] AH00094: Command line: 'C:\\Users\\edwar\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+7\\bin\\win32\\bin\\httpd.exe -d C:/Users/edwar/AppData/Roaming/Local/lightning-services/apache-2.4.43+7/bin/win32 -D FOREGROUND -f C:\\Users\\edwar\\AppData\\Roaming\\Local\\run\\MkAjNQlG0\\conf\\apache\\apache2.conf'
+[Tue Aug 30 10:49:49.622712 2022] [mpm_winnt:notice] [pid 27280:tid 772] AH00418: Parent: Created child process 32088
+[Tue Aug 30 10:49:50.283711 2022] [mpm_winnt:notice] [pid 32088:tid 860] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 30 10:50:08.537714 2022] [mpm_winnt:crit] [pid 32088:tid 860] AH02538: Child: Parent process exited abruptly. Child process is ending
+[Tue Aug 30 10:50:08.537714 2022] [mpm_winnt:warn] [pid 32088:tid 844] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Aug 30 10:50:08.537714 2022] [mpm_winnt:warn] [pid 32088:tid 1412] (OS 995)The I/O operation has been aborted because of either a thread exit or an application request.  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Aug 30 10:51:04.076122 2022] [core:warn] [pid 29224:tid 916] AH00098: pid file C:/Users/edwar/AppData/Roaming/Local/run/MkAjNQlG0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 30 10:51:04.079119 2022] [mpm_winnt:notice] [pid 29224:tid 916] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Aug 30 10:51:04.079119 2022] [mpm_winnt:notice] [pid 29224:tid 916] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Aug 30 10:51:04.079119 2022] [core:notice] [pid 29224:tid 916] AH00094: Command line: 'C:\\Users\\edwar\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+7\\bin\\win32\\bin\\httpd.exe -d C:/Users/edwar/AppData/Roaming/Local/lightning-services/apache-2.4.43+7/bin/win32 -D FOREGROUND -f C:\\Users\\edwar\\AppData\\Roaming\\Local\\run\\MkAjNQlG0\\conf\\apache\\apache2.conf'
+[Tue Aug 30 10:51:04.082120 2022] [mpm_winnt:notice] [pid 29224:tid 916] AH00418: Parent: Created child process 28144
+[Tue Aug 30 10:51:04.767121 2022] [mpm_winnt:notice] [pid 28144:tid 808] AH00354: Child: Starting 64 worker threads.
+[Tue Aug 30 10:52:17.097319 2022] [core:warn] [pid 31728:tid 792] AH00098: pid file C:/Users/edwar/AppData/Roaming/Local/run/MkAjNQlG0/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Aug 30 10:52:17.100322 2022] [mpm_winnt:notice] [pid 31728:tid 792] AH00455: Apache/2.4.43 (Win32) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Tue Aug 30 10:52:17.100322 2022] [mpm_winnt:notice] [pid 31728:tid 792] AH00456: Server built: Apr 21 2020 13:46:54
+[Tue Aug 30 10:52:17.100322 2022] [core:notice] [pid 31728:tid 792] AH00094: Command line: 'C:\\Users\\edwar\\AppData\\Roaming\\Local\\lightning-services\\apache-2.4.43+7\\bin\\win32\\bin\\httpd.exe -d C:/Users/edwar/AppData/Roaming/Local/lightning-services/apache-2.4.43+7/bin/win32 -D FOREGROUND -f C:\\Users\\edwar\\AppData\\Roaming\\Local\\run\\MkAjNQlG0\\conf\\apache\\apache2.conf'
+[Tue Aug 30 10:52:17.103319 2022] [mpm_winnt:notice] [pid 31728:tid 792] AH00418: Parent: Created child process 10524
+[Tue Aug 30 10:52:17.776320 2022] [mpm_winnt:notice] [pid 10524:tid 860] AH00354: Child: Starting 64 worker threads.
